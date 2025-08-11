@@ -18,7 +18,7 @@
     <td>
       <a href="https://github.com/rlawlals119/github-readme-stats">
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leedong-uk&layout=compact&hide_border=true"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlawlals119&layout=compact&hide_border=true"
           width="420"
           alt="Top Languages"
         />
