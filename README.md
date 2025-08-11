@@ -1,6 +1,6 @@
 <!-- 헤더 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jeemin&fontSize=80&fontAlign=80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🧑‍💻Jeemin&fontSize=80&fontAlign=80" />
 </p>
 
 <!-- 2x2 그리드 -->
