@@ -54,6 +54,11 @@
  
 <!-- GitHub 통계 -->
 ## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rlawlals119&theme=tokyonight&hide_border=true" />
+</div>
+<br/>
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rlawlals119&theme=tokyonight" />
 </div>
