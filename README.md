@@ -54,16 +54,6 @@
  
 <!-- GitHub 통계 -->
 ## 📊 GitHub Stats
- 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rlawlals119&show_icons=true&theme=tokyonight&hide_border=true&locale=kr" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlawlals119&layout=compact&theme=tokyonight&hide_border=true&locale=kr" height="165"/>
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rlawlals119&theme=tokyonight&hide_border=true" />
-</div>
-<br/>
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rlawlals119&theme=tokyonight" />
 </div>
