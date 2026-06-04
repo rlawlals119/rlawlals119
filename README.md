@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=200&section=header&text=Hi%2C%20I'm%20Jimin%20Kim%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=200&section=header&text=Hi%2C%20I'm%20지민%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer&descAlignY=58&descSize=18" />
 </div>
 <br/>
 <!-- 소개 -->
@@ -62,6 +62,10 @@
 <br/>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rlawlals119&theme=tokyonight&hide_border=true" />
+</div>
+<br/>
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rlawlals119&theme=tokyonight" />
 </div>
 <br/>
 <!-- Footer -->
