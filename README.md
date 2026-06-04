@@ -12,7 +12,7 @@
  <!-- ☁️  기술 블로그에 공부한 내용을 기록하고 있어요. -->
 </div>
 <br/>
----
+
  
 <!-- 기술 스택 -->
 ## 🛠 Tech Stack
@@ -35,7 +35,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
  
 <br/>
----
+
  
 <!-- 링크 -->
 ## 📎 Links
@@ -46,12 +46,11 @@
   [![Solved.ac](https://img.shields.io/badge/Solved.ac-rlawlals119-1e90ff?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAA7AAAAOwBeShxvQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAADASURBVCiRpdIxSgNBFAbg700yCGLpIXIBT5BesBfYC3gFD+ANPILeQDyA2FqJjY2FYGNlYSHYWAiCICiIiCAIKiKIiCAIKiKIiCAIKiKIiCAIKiKIiCAIKiKIiCAIKiKIiCAIKiKIiCAIKiKIiCAIKiKIiCAI)](https://solved.ac/profile/rlawlals119)
  
 </div>
-**백준 티어**
  
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlals119)](https://solved.ac/profile/rlawlals119)
  
 <br/>
----
+
  
 <!-- GitHub 통계 -->
 ## 📊 GitHub Stats
